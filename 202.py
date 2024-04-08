@@ -1,4 +1,4 @@
-nums=1024
+nums=10
 def nive_podu(nums):
     p=0
     while nums>0:
